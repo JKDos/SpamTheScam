@@ -1,0 +1,2 @@
+python scam.py
+pause

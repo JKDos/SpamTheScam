@@ -1,5 +1,5 @@
-# SpamTheScam
-A script to spam scammers with - (Formally known as ScamTheScam)
+# ScamTheScam
+Some scams to scam scammers with
 
 It's an odd name, but hear this out.
 
@@ -15,4 +15,4 @@ This file contains sample output.
 For reading easability,  it's been formated to look like this  \<username\>   @ \<domain\>    \> \<password\>
 
 # Other
-This Repo has been recreated as I had a mishap with Github Desktop and messed up my commit history.
+This Repo has been recreated as I has a mishap with Github Desktop and messed up my commit history.
