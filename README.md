@@ -1,5 +1,5 @@
-# ScamTheScam
-Some scams to scam scammers with
+# SpamTheScam
+A Python project to spam scammers with (Formally known as ScamTheScam)
 
 It's an odd name, but hear this out.
 
